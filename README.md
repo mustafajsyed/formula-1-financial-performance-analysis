@@ -4,6 +4,12 @@ I built this project to improve my Excel and financial analysis skills while wor
 
 The project compares 2025 racing performance with 2024 revenue estimates and 2025 team valuations. I used Excel to organize the data, calculate performance-to-revenue metrics, and create a dashboard comparing all 10 teams.
 
+## Dashboard Preview
+
+![Formula 1 Financial Performance Dashboard](dashboard-preview.png)
+
+The full dashboard, analysis, and supporting data are available in the project files below.
+
 ## Main Question
 
 Which Formula 1 team achieved the strongest racing performance relative to its revenue?
@@ -35,8 +41,9 @@ Ferrari had the highest estimated valuation at $6.5 billion, despite scoring few
 
 The racing results are from 2025, while revenue figures represent 2024 estimates. Revenue does not represent team spending, profit, or return on investment, so the calculations only compare financial scale with racing performance.
 
-## Files
+## Project Files
 
-- Excel workbook with raw data, calculations, sources, and dashboard
-- Dashboard PDF
-- Executive summary PDF
+- [Excel Workbook](Formula1-Team-Financial-Analysis/F1_Team_Valuation_Performance_Analysis_Final.xlsx)
+- [Dashboard PDF](Formula1-Team-Financial-Analysis/F1_Financial_Performance_Dashboard.pdf)
+- [Executive Summary PDF](Formula1-Team-Financial-Analysis/F1_Executive_Summary.pdf)
+
